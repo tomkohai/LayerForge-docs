@@ -15,7 +15,8 @@ Workflow pensé pour l’art stylisé — idéal pour le handpaint, les textures
 
 Intégration native Blender — fonctionne directement dans l’éditeur de Texture Paint.
 
-📦 Installation
+📦 Installation -
+
 Téléchargez l’archive .zip de LayerForge ...... Lorsque celle ci sera disponible ! 
 
 Dans Blender :
@@ -28,7 +29,7 @@ Activez l’addon LayerForge
 
 L’interface apparaît dans l’onglet Texture Paint.
 
-📘 Documentation
+📘 Documentation - 
 La documentation complète sera disponible dans ces dépôt :
 
 Guide d’installation
@@ -39,7 +40,8 @@ Fonctionnalités détaillées
 
 FAQ & dépannage
 
-🗂️ Roadmap
+🗂️ Roadmap - 
+
 LayerForge évolue activement.
 Les prochaines fonctionnalités prévues :
 
@@ -55,10 +57,8 @@ Compatibilité Grease Pencil
 
 Animation de layers avec anim sequence
 
-👉 Voir la roadmap complète :
-Roadmap LayerForge
 
-📝 Changelog
+📝 Changelog - 
 Retrouvez l’historique complet des versions, commits et améliorations :
 
 v0.1 — Système de calques, opacité, panels UI
@@ -67,12 +67,13 @@ v0.2 — Améliorations du workflow, corrections
 
 v0.3 — Optimisations et nouvelles options de blending
 
-👉 Voir le changelog complet :
-Changelog LayerForge
 
-💬 Support
+
+💬 Support - 
+
 Pour toute question : tomkohai@gmail.com
 
-🧩 Résumé
+🧩 Résumé - 
+
 LayerForge apporte un vrai système de calques à Blender, avec un workflow moderne, non destructif et pensé pour les artistes.
 Ce dépôt contient la documentation officielle, tandis que le code source reste privé pour garantir la qualité et la sécurité du produit.
