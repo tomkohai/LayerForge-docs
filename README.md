@@ -65,14 +65,15 @@ Menu image source
 Add Grease Pencil
 
 Les prochaines fonctionnalités prévues :
-
-Gestionnaire de menus layer : 
+- Reorder
+- Gestionnaire de menus layer 
 - Anim sequence
 - Resize
 - Modes de fusion avancés
 - Masques de calque améliorés
 - Outils de peinture supplémentaires
 - Compatibilité Grease Pencil
+- Pack de brushs
 
 
 
