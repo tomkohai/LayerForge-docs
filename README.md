@@ -24,16 +24,16 @@ Profitez d'un pack de brushs dédié !
 LayerForge évolue activement.
 
 Fonctionnalitées implémentées : 
-Create Layer Forge material 
-Remove material
-Gestionnaire de layers - add / remove 
-Render switch
-Hide On Off par layer
-Solo layer
-Lock Alpha
-lock layer 
-Menu image source 
-Add Grease Pencil
+- Create Layer Forge material 
+- Remove material
+- Gestionnaire de layers - add / remove 
+- Render switch
+- Hide On Off par layer
+- Solo layer
+- Lock Alpha
+- lock layer 
+- Menu image source 
+- Add Grease Pencil
 
 Les prochaines fonctionnalités prévues :
 - Reorder
