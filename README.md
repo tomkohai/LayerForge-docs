@@ -19,6 +19,37 @@ Intégration native Blender — fonctionne directement dans l’éditeur de Text
 Profitez d'un pack de brushs dédié ! 
 
 
+🗂️ Roadmap & Features :
+
+LayerForge évolue activement.
+
+Fonctionnalitées implémentées : 
+Create Layer Forge material 
+Remove material
+Gestionnaire de layers - add / remove 
+Render switch
+Hide On Off par layer
+Solo layer
+Lock Alpha
+lock layer 
+Menu image source 
+Add Grease Pencil
+
+Les prochaines fonctionnalités prévues :
+- Reorder
+- Gestionnaire de menus layer 
+- Anim sequence
+- Resize
+- Modes de fusion avancés
+- Masques de calque améliorés
+- Outils de peinture supplémentaires
+- Compatibilité Grease Pencil
+- Pack de brushs
+- Bake pour l'impression 3D
+- Outline 
+
+
+
 
 📦 Installation : 
 
@@ -48,35 +79,6 @@ Fonctionnalités détaillées
 
 FAQ & dépannage
 
-
-
-🗂️ Roadmap & Features :
-
-LayerForge évolue activement.
-
-Fonctionnalitées implémentées : 
-Create Layer Forge material 
-Gestionnaire de layers - add / remove 
-Render switch
-Hide On Off par layer
-Solo layer
-Lock Alpha
-lock layer 
-Menu image source 
-Add Grease Pencil
-
-Les prochaines fonctionnalités prévues :
-- Reorder
-- Gestionnaire de menus layer 
-- Anim sequence
-- Resize
-- Modes de fusion avancés
-- Masques de calque améliorés
-- Outils de peinture supplémentaires
-- Compatibilité Grease Pencil
-- Pack de brushs
-- Bake pour l'impression 3D
-- Outline 
 
 
 
