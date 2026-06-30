@@ -4,9 +4,9 @@ Il permet de créer, organiser et mélanger des layers non destructifs, avec un 
 
 ✨ Fonctionnalités principales : 
 
-Layers non destructifs — peignez, modifiez, réorganisez sans jamais perdre votre travail.
+Layers non destructifs — peignez vos mesh 3D, modifiez, réorganisez sans jamais perdre votre travail.
 
-Modes de fusion — mélangez vos calques comme dans un logiciel de peinture numérique.
+Modes de fusion — mélangez vos calques Like Krita / Procreate/ Photoshop.
 
 Opacité & masques — contrôlez la transparence et les zones de peinture avec précision.
 
@@ -15,6 +15,8 @@ Organisation intuitive — renommez, réordonnez, groupez vos layers facilement.
 Workflow pensé pour l’art stylisé — idéal pour le handpaint, les textures cartoon, les FX 2D/3D.
 
 Intégration native Blender — fonctionne directement dans l’éditeur de Texture Paint.
+
+Profitez d'un pack de brushs dédié ! 
 
 
 
@@ -48,22 +50,30 @@ FAQ & dépannage
 
 
 
-🗂️ Roadmap :
+🗂️ Roadmap & Features :
 
 LayerForge évolue activement.
+
+Fonctionnalitées implémentées : 
+Create Layer Forge material 
+Gestionnaire de layers - add / remove 
+Hide On Off par layer
+Solo layer
+Lock Alpha
+lock layer 
+Menu image source 
+Add Grease Pencil
+
 Les prochaines fonctionnalités prévues :
 
-Système de groupes de layers
+Gestionnaire de menus layer : 
+- Anim sequence
+- Resize
+- Modes de fusion avancés
+- Masques de calque améliorés
+- Outils de peinture supplémentaires
+- Compatibilité Grease Pencil
 
-Modes de fusion avancés
-
-Masques de calque améliorés
-
-Outils de peinture supplémentaires
-
-Compatibilité Grease Pencil
-
-Animation de layers avec anim sequence
 
 
 📝 Changelog : 
