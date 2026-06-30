@@ -57,6 +57,7 @@ LayerForge évolue activement.
 Fonctionnalitées implémentées : 
 Create Layer Forge material 
 Gestionnaire de layers - add / remove 
+Render switch
 Hide On Off par layer
 Solo layer
 Lock Alpha
@@ -74,6 +75,8 @@ Les prochaines fonctionnalités prévues :
 - Outils de peinture supplémentaires
 - Compatibilité Grease Pencil
 - Pack de brushs
+- Bake pour l'impression 3D
+- Outline 
 
 
 
